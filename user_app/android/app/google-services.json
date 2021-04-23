@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "337840524048",
+    "firebase_url": "https://bandvote-9fa85.firebaseio.com",
+    "project_id": "bandvote-9fa85",
+    "storage_bucket": "bandvote-9fa85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337840524048:android:e4803e5f56914d7231b395",
+        "android_client_info": {
+          "package_name": "com.akilan.user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337840524048-fia2mj3p3drbi125c3t2f5fh13kvdp5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqmv9nC7YMJbzmbNEJZgDEwC6Cux_c41U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337840524048-fia2mj3p3drbi125c3t2f5fh13kvdp5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337840524048:android:e9f4e678ea8870bc31b395",
+        "android_client_info": {
+          "package_name": "com.akilan.vendor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337840524048-fia2mj3p3drbi125c3t2f5fh13kvdp5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqmv9nC7YMJbzmbNEJZgDEwC6Cux_c41U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337840524048-fia2mj3p3drbi125c3t2f5fh13kvdp5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
